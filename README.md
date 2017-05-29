@@ -10,6 +10,14 @@ media to fit your specific business logic and use cases.
 * Topic: Mohawk Language Dialect Translations.
 * Topic: Secret Commands
 
+# AI Bots API EndPoints
+You need a dev key (free) to view the endpoint response. You will also find specific code samples for java, ruby, php,
+node, javascript and more at the mashape site.
+* https://monigarr-monigarr-bots-v1.p.mashape.com/conversation_start.php?bot_id={1}&say={say}&format={json}
+* bot_id : unique id for each new bot
+* say :    string natural language text, secret commands, iot commands
+* format : json or xml
+
 # Android Sample
 AIBotAPIDemoPlain includes the Android Readme and Instructions.
 
@@ -20,7 +28,6 @@ many other relevant software stores.
 
 
 ## Built With
-
 * [AI Bots API](https://market.mashape.com/monigarr/ai-bots)
 * [MashApe](https://market.mashape.com/monigarr/)
 
