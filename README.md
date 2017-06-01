@@ -10,6 +10,11 @@ media to fit your specific business logic and use cases.
 * Topic: Mohawk Language Dialect Translations.
 * Topic: Secret Commands
 
+# Get Started
+1. Get your free developer account and key: https://market.mashape.com/monigarr/ai-bots/pricing
+2. Review Documentation: https://market.mashape.com/monigarr/ai-bots/
+3. Add relevant endpoint to your own software or website project.
+
 # AI Bots API EndPoints
 You need a dev key (free) to view the endpoint response. You will also find specific code samples for java, ruby, php,
 node, javascript and more at the mashape site.
@@ -17,6 +22,7 @@ node, javascript and more at the mashape site.
 * bot_id : unique id for each new bot
 * say :    string natural language text, secret commands, iot commands
 * format : json or xml
+
 
 # Android Sample
 AIBotAPIDemoPlain includes the Android Readme and Instructions.
