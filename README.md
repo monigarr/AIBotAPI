@@ -12,7 +12,7 @@ media to fit your specific business logic and use cases.
 
 # Get Started
 1. Get your free developer account and key: https://market.mashape.com/monigarr/ai-bots/pricing
-2. Review Documentation: https://market.mashape.com/monigarr/ai-bots/
+2. Review Documentation & Code Samples: https://market.mashape.com/monigarr/ai-bots/
 3. Add relevant endpoint to your own software or website project.
 
 # AI Bots API EndPoints
@@ -25,7 +25,7 @@ node, javascript and more at the mashape site.
 
 
 # Android Sample
-AIBotAPIDemoPlain includes the Android Readme and Instructions.
+AIBotAPIDemoPlain includes the Android Readme and Instructions. https://github.com/monigarr/AIBotAPI/tree/master/AIBotApiDemoPlain
 
 ## Deployment
 Publish as you normally do for your industry standard Android apps in the Google Play Store.
