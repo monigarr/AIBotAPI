@@ -34,6 +34,14 @@ Publish as you normally do for your industry standard Android apps in the Google
 You are welcome to sell your custom creations in the Apple App Store, Google Play Store, and
 many other relevant software stores.
 
+## Side Notes
+Please think about the following as you use our AI Bots API to create your own technology solutions. 
+* Racial Formation of Chatbots https://scholar.google.com/scholar?q=racial+formation+of+chatbots
+* AI Bots API provides access to much more than endangered language translations. 
+* Do NOT attempt to 'trick' people into thinking they are speaking with a human.
+* Do NOT attempt to represent any group of people for any reason.
+* Do NOT attempt to represent any historical figures for any reason.
+
 
 ## Built With
 * [AI Bots API](https://market.mashape.com/monigarr/ai-bots)
