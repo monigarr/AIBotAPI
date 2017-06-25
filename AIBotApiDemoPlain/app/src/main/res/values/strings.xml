@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">AI Bot Api Demo</string>
+    <string name="app_name">AI Bot Demo</string>
+    <string name="info">Powered by MoniGarr.com AI Bot API</string>
+    <string name="send">Send</string>
+    <string name="chat_hint">enter word or phrase</string>
+    <string name="you">You: </string>
+    <string name="bot">Bot: </string>
 </resources>

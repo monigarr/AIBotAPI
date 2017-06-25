@@ -1,39 +1,21 @@
-# AI Bot API Demo Plain
-This is a simple example showing how to pull the AI Bot API endpoints with MashApe key into an Android project.
+# AI Bots API : AIBotApiDemoPlain
+Android template to show how to use the AI Bots API from MoniGarr.com 
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and 
-testing purposes. See deployment for notes on how to deploy the project on a live system.
+# Get Started
+1. Get your free developer account and key: https://market.mashape.com/monigarr/ai-bots/pricing
+2. Open this project in the most current version of Android Studio.
+3. Add your developer key to the file in Android Studio: ParseJSONObject.java
+4. Clean, Build and Run this project on your Android device or the Android Studio emulator.
 
-### Prerequisites
-I used the following to build, test and compile this Android project on my phone:
-
-* Android Studio 3 Canary Channel
-* MashApe Developer Account (free) https://market.mashape.com
-* AI Bot API Key (free) https://market.mashape.com/monigarr/ai-bots
-* Gradle
-
-### Installing
-1. Download this project to your local dev computer or download the zip file (top right of Github page)
-2. Open this project in Android Studio 3 
-3. Clean and Rebuild project to verify it compiles on your local dev computer. You will see standard Android dev messages
-if your dev computer is missing current standard libraries, gradle, etc. Android Studio asks you to install & update when
-your dev computer needs to.
-4. Open MainActivity.class in Android Studio
-5. Review the TODO tab and follow the 4 Steps mentioned in the TODO tab.
-6. Clean, Rebuild and Run on your own Android Phone.
-7. First time you run this app on your Android Phone: you will see the Progress Bar at top
-center of the phone screen showing it load the xml or json response from your endpoint.
-
-
-## Deployment
-Publish as you normally do for your industry standard Android apps in the Google Play Store.
-
-
-## Built With
-
+# Requirements
 * [AI Bots API](https://market.mashape.com/monigarr/ai-bots)
-* [MashApe](https://market.mashape.com/monigarr/)
+* Android Studio
+
+# How You & Your End Users Can Benefit
+* Add your own logo, graphics and custom user interface.
+* Sell your customized app in the Google Play Store for a monthly subscription or one time fee.
+* Request a new custom bot for your own business requirements: endangered language translations, quizzes, entertaining conversations, promote your group - products - services - ideas.
+
 
 ## Authors
 
