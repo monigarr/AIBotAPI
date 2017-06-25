@@ -10,8 +10,7 @@ media to fit your specific business logic and use cases.
 * Topic: Mohawk Language Dialect Translations.
 * Topic: Secret Commands
 
-![](https://github.com/monigarr/AIBotAPI/blob/master/AIBotApiDemoPlain/Android_AI_Bot_API_chat.png=145x250)
-
+![](https://github.com/monigarr/AIBotAPI/blob/master/AIBotApiDemoPlain/Android_AI_Bot_API_chat.png){:height="50%" width="50%"}
 
 # Get Started
 1. Get your free developer account and key: https://market.mashape.com/monigarr/ai-bots/pricing

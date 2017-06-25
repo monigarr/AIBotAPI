@@ -1,7 +1,7 @@
 # AI Bots API : AIBotApiDemoPlain
 Android template to show how to use the AI Bots API from MoniGarr.com 
 
-<img src="https://github.com/monigarr/AIBotAPI/blob/master/AIBotApiDemoPlain/Android_AI_Bot_API_chat.png" width="145" height="250">
+![](https://github.com/monigarr/AIBotAPI/blob/master/AIBotApiDemoPlain/Android_AI_Bot_API_chat.png){:height="50%" width="50%"}
 
 
 # Get Started
