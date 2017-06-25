@@ -38,7 +38,7 @@ public class ParseJSONObject extends AppCompatActivity {
 
     //  TODO: Add Your Developer Key from https://market.mashape.com/monigarr/ai-bots
     //  TODO: Do Not share your developer key with anyone. MoniGarr will not ask for your dev key.
-    private String developerkey = "Enter Your Developer Key Here";
+    private String developerkey = "you must enter your developer key here";
 
     private static final String TAG ="ParseJSONObject";
     private BotResponse mBotResponse;
